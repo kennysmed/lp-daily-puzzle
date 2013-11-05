@@ -1,6 +1,6 @@
-# Word of the Day
+# Daily Puzzle
 
-A Little Printer publication that explains a new word from Wordsmith.org every day.
+A Little Printer publication that publishes a new Sudoku puzzle every day.
 
 See a sample at http://remote.bergcloud.com/publications/1
 
